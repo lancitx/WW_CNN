@@ -1,4 +1,4 @@
-# WOA - CNN and BWO - CNN
+# WOA/BWO - CNN
 
 基于**鲸鱼WOA/白鲸BWO优化算法**在CNN预测铁路里程数据上的应用。
 
