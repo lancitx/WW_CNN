@@ -2,7 +2,7 @@
 
 基于**鲸鱼WOA/白鲸BWO优化算法**在CNN预测铁路里程数据上的应用。
 
-开源地址：[lancitx/woa_bwo_CNN: Optimizing CNN based on WOA/BWO and predicting railway mileage](https://github.com/lancitx/woa_bwo_CNN)
+开源地址：[lancitx/WW_CNN](https://github.com/lancitx/WW_CNN)
 
 ---
 
@@ -29,7 +29,7 @@ data = np.array([
     [5.86, 5.90, 5.97, 6.49, 6.60, 6.64],
     [5.90, 5.97, 6.49, 6.60, 6.64, 6.74],
     [5.97, 6.49, 6.60, 6.64, 6.74, 6.87],
-    [6.49, 6.60, 6.64, 6.74, 7.87, 7.01]
+    [6.49, 6.60, 6.64, 6.74, 6.87, 7.01]
 ])
 ```
 
